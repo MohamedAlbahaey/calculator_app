@@ -3,10 +3,10 @@
 A simple yet powerful calculator app built using Flutter. This app includes both dark and light themes, providing a seamless experience for users. It's a mobile-friendly solution for quick and efficient calculations.
 
 ## Features
-- Basic arithmetic operations: addition, subtraction, multiplication, and division.
-- Support for both dark and light themes.
-- Responsive design that adapts to different screen sizes.
-- Easy-to-use and intuitive interface.
+- **Basic arithmetic operations**: addition, subtraction, multiplication, division and modulus.
+- 🌗 Support for both **dark and light themes**.
+- **Responsive design** that adapts to different screen sizes.
+- **Easy-to-use** and intuitive interface.
 
 ## Screenshots
 
@@ -16,7 +16,7 @@ A simple yet powerful calculator app built using Flutter. This app includes both
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/calculator-app.git
+    git clone https://github.com/MohamedAlbahaey/calculator-app.git
     ```
 
 2. Navigate into the project directory:
@@ -36,12 +36,15 @@ A simple yet powerful calculator app built using Flutter. This app includes both
 
 ## How it Works
 
-The app is structured in a single file (`main.dart`) that handles the UI, themes, and logic for performing calculations. The themes are controlled by Flutter’s built-in `ThemeData` class, which allows users to toggle between the light and dark themes.
+The app is structured in a single file (`main.dart`) that handles the UI, themes, and logic for performing calculations. 
 
-## Contributing
+The themes are controlled by Flutter’s built-in `ThemeData` class, which allows users to toggle between the light and dark themes.
 
-If you’d like to contribute to this project, feel free to fork the repository, make your changes, and create a pull request.
-
+## Code Structure
+```bash
+lib/
+├── main.dart          # Main application file with all functionality
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
