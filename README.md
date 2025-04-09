@@ -9,7 +9,8 @@ A simple yet powerful calculator app built using Flutter. This app includes both
 - Easy-to-use and intuitive interface.
 
 ## Screenshots
-(Include some screenshots of the app in both themes here)
+
+[Calculator App.pdf](https://github.com/user-attachments/files/19671438/Calculator.App.pdf)
 
 ## Installation
 
